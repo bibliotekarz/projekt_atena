@@ -7,15 +7,13 @@
 ### Podtytuł
 _brak_
 + **Tytuł oryginalny** 240 10 $a Voyage au centre de la terre.
-
 + **tytuł ujednolicony** 240 10 $a Voyage au centre de la terre. $l English
 
 ## Autor 100 1 $a Verne, Jules, $d 1828-1905
 ### Współautor
 _brak_
 
-+ **odpowiedzialność** 245 	10 $c Jules Verne ; illustrated by Scott McKowen.
-
++ **Odpowiedzialność** 245 	10 $c Jules Verne ; illustrated by Scott McKowen.
 + **Inne odpowiedzialności** 700 1 $a McKowen, Scott, $e ill.
 
 ## Zawartość
@@ -23,29 +21,16 @@ What a stunning discovery: an old, coded note that actually contains directions 
 
 ### Wydanie
 + **nr wydania**
-
 + **rodzaj wydania**
-
-+ **rok wydania** 260 $cc 2007. ???
-
++ **rok wydania** 260 $cc 2007. ??? czy to na być cc???
 + **wydawnictwo** 260 $b Sterling Pub.
-
 + **Miejscowość** 260 $a New York, N.Y.
-
 + **ISBN** 020 $a 9781402743375 020 $a 1402743378
-
 + **seria**
-
 + **opis fizyczny** 300 $a vii, 244 p. :$ bill. ;$c 21 cm.
-
 + **format** 950 $aBook
-
 + **kod języka**  041 1_ $a eng $h fre 
-
 + **notatka językowa** 546 $a Translated from the French.
-
-
-
 
 ### treść (zajawka nota wydawnicza)
 
@@ -58,7 +43,6 @@ What a stunning discovery: an old, coded note that actually contains directions 
 + tagi
 + termin tematyczny 650 0 $a Voyages, Imaginary
 + LC Subject 650 0 $a Voyages, Imaginary $v Fiction.
-+ LCC (język klasyfikacji kongresu)  050 00 $a PQ2469.V75 $b E5 2007
 
 #### numery
 + sygnaturka 
@@ -66,6 +50,7 @@ What a stunning discovery: an old, coded note that actually contains directions 
 + kod "kreskowy"
 + UKD cyframi 082 00 $a 843/.8 
 + LCCN 010 $a 2007003987
++ LCC (język klasyfikacji kongresu)  050 00 $a PQ2469.V75 $b E5 2007
 
 #### marc21
  [otwórz marc 21](https://bpl.bibliocommons.com/item/catalogue_info/1364874075)
@@ -90,7 +75,6 @@ What a stunning discovery: an old, coded note that actually contains directions 
 + nota o autorze (nie biografia)
 + fragment książki
 
-
 ## Status
 - ocena gwiazdki
 - nowość
@@ -105,6 +89,7 @@ What a stunning discovery: an old, coded note that actually contains directions 
 + cytata do opracowań
 + qrkod link do opisu
 + wyślij mailem opis
+
 ### rekomenduj w social mediach
 + facebok
 + twitter
@@ -114,6 +99,3 @@ What a stunning discovery: an old, coded note that actually contains directions 
 + jakieś serwisy książkowe
 
 # widok egzemplarza
-
-
-
