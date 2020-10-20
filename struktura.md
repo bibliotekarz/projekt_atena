@@ -1,7 +1,7 @@
 # widok tytułu
 
 ## Okładka
-![](https://secure.syndetics.com/index.aspx?isbn=9781402743375/MC.GIF&client=notsobplp&type=xw12&oclc=)
+![okładka opis alt](https://secure.syndetics.com/index.aspx?isbn=9781402743375/MC.GIF&client=notsobplp&type=xw12&oclc=)
 ## Tytuł
 Journey to the Center of the Earth
 ### Podtytuł
@@ -43,7 +43,7 @@ What a stunning discovery: an old, coded note that actually contains directions 
 
 ### techniczne
 #### opisy
-+ UKD opis
++ UKD opis słowny
 + jhp
 + kaba
 + deskryptory
@@ -56,7 +56,7 @@ What a stunning discovery: an old, coded note that actually contains directions 
 + UKD cyframi
 
 #### marc21
-(https://bpl.bibliocommons.com/item/catalogue_info/1364874075 "otwórz marc 21")
+ [otwórz marc 21](https://bpl.bibliocommons.com/item/catalogue_info/1364874075)
 
 ### czytelnicze
 + uwagi
@@ -93,86 +93,15 @@ What a stunning discovery: an old, coded note that actually contains directions 
 + cytata do opracowań
 + qrkod link do opisu
 + wyślij mailem opis
-### rekomendacje w social mediach
+### rekomenduj w social mediach
 + facebok
 + twitter
 + pinterest
 + tiktok
 + mail
 + jakieś serwisy książkowe
-+ jakieś serwisy książkowe
-
-http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&IM=07&WI=02&NU=17&CD1=ci%B9g+dalszy+
-http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&IM=07&WI=02&NU=17&CE=1&CD2=ci%B9g+dalszy+
-http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=01&IM=07&WI=02&NU=17&CE=2&CD3=ci%B9g+dalszy+
 
 # widok egzemplarza
 
-## Okładka
-
-## Tytuł
-### Podtytuł
-### Tytuł oryginalny
-
-## Autor
-### Współautor
-#### Inne odpowiedzialności
-
-## Wydanie
-### nr wydania
-### rodzaj wydania
-### rok wydania
-### wydawnictwo
-### Miejscowość
-### ISBN
-### seria
-### opis fizyczny
-### kod języka
-
-## Zawartość
-### techniczne
-UKD cyframi
-UKD opis
-jhp
-kaba
-deskryptory
-tagi
-sygnaturka
-nr inwentarzowy 
-kod "kreskowy"
-marc21
-
-
-### czytelnicze
-gatunek (sensacja horror publicystyka)
-opis w zewnętrznym serwisie
-ulubiony cytat
-recenzje czytelników
-recenzja bibliotekarza (fachowe)
-wiek grupy docelowej
-treść (zajawka nota wydawnicza)
-uwagi
-komentarze
-egzemplarz z placówki
-! format/typ (książka multimedia gra)
-! zasób - wszystkie egzemplarze
-! dostępność w placówkach
-
-## Status
-### ocena gwiazdki
-### nowość
-### popularna
-### dostępność
-data zwrotu
-
-## działania
-dodaj do mojej półki
-działanie (guzik zarezerwuj)
-karta katalogowa (fiszka)
-cytata do opracowań
-qrkod link do opisu
-wyślij mailem opis
-
-! rekomendacje
 
 
